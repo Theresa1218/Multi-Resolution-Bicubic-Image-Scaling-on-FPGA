@@ -12,7 +12,6 @@
 |---|---|
 | FPGA Platform | PYNQ-Z2 / Xilinx Zynq-7000 |
 | RTL Design | Bicubic Interpolation implemented in Verilog HDL |
-| Multi-Resolution Output | 40 × 40 / 50 × 50 / 63 × 63 |
 | HW/SW Co-Design | Python GUI + UART + Zynq PS/PL + AXI GPIO + BRAM |
 | Timing Optimization | Iterative Divider + Pipelining + Datapath Optimization |
 | Final Clock | **125 MHz (8.000 ns period)** |
